@@ -1,1 +1,1 @@
-BookBot is some project from boot.dev that a friend told me about.
+BookBot is not 'my first project.' It is some project from boot.dev that a friend told me about.
